@@ -1,4 +1,4 @@
-package tr.com.argela.ldap;
+package com.example.ldap;
 
 import javax.naming.Context;
 import javax.naming.NamingEnumeration;
